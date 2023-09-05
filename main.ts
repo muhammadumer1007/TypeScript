@@ -70,6 +70,7 @@ let sellableObj = new Sellable();
 
 sellableObj.AddItem("a");
 sellableObj.AddItem(1);
+sellableObj.AddItem("b");
 
 console.log(sellableObj.item);
 
