@@ -75,5 +75,10 @@ sellableObj.AddItem("b");
 console.log(sellableObj.item);
 
 
+type notSellable = {
+  
+}
+
+
 
 export {};
