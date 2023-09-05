@@ -3,6 +3,9 @@ function getProduct<Type>(product: Type): Type {
 }
 
 console.log(getProduct("hello"));
+console.log(getProduct("hello"));
+console.log(getProduct("hello"));
+console.log(getProduct("hello"));
 console.log(getProduct(222));
 console.log(getProduct(true));
 
